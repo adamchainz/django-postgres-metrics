@@ -7,6 +7,8 @@ Changelog
 Under Development
 =================
 
+* Removed support for Django 3.0 and 3.1.
+
 0.11.0 (2021-10-06)
 ===================
 
